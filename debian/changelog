@@ -1,3 +1,9 @@
+xf86-input-nextwindow (0.3.4~lliurex1) focal; urgency=medium
+
+  * Focal port.
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Mon, 14 Dec 2020 14:46:15 +0100
+
 xf86-input-nextwindow (0.3.4~lliurex1) bionic; urgency=medium
 
   * Bionic port.
